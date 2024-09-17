@@ -60,6 +60,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ### Contact
 For any inquiries or questions, please contact:
 
-Name: Yengkong Sayaovong
-Email: YSayaovong@gmail.com
-LinkedIn: Yengkong Sayaovong
+- Name: Yengkong Sayaovong
+- Email: YSayaovong@gmail.com
+- LinkedIn: Yengkong Sayaovong
