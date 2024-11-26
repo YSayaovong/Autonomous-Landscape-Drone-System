@@ -1,65 +1,47 @@
-# Self Service Landscape Drones
+# Self-Service Landscape Drones
 
-This project focuses on the development of self-service landscape drones capable of automated terrain mapping and maintenance. These drones are designed to be user-friendly and efficient in performing tasks like mowing, trimming, and landscape surveying.
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+This repository documents the design and development of autonomous robots aimed at performing tasks around the home. The project involved collaboration within a team to build schedules, manage deliverables, and ensure timely completion of tasks.
 
 ## Project Overview
 
-The Self Service Landscape Drones project aims to create an automated solution for landscape maintenance. The drones are equipped with advanced sensors and algorithms to navigate and perform landscaping tasks autonomously. The goal is to reduce the need for manual intervention in landscape maintenance, making the process more efficient and less time-consuming.
+The **Self-Service Landscape Drones** project was created to explore the potential of robotics in simplifying household tasks. This included designing systems for task automation, scheduling workflows, and coordinating efforts in a team-based environment.
 
-## Features
+## Key Features
 
-- **Automated Terrain Mapping**: The drones can map the landscape to identify areas that require maintenance.
-- **Autonomous Operation**: Capable of performing tasks like mowing, trimming, and surveying without manual control.
-- **User-Friendly Interface**: Easy setup and operation through a user-friendly control system.
-- **Obstacle Detection and Avoidance**: Equipped with sensors to detect and avoid obstacles during operation.
-- **Battery Management**: Efficient battery usage and automated charging capabilities.
+- **Home Automation Robotics**: Development of robots capable of performing household tasks efficiently.
+- **Team Collaboration**: Worked in a team environment to plan, design, and implement solutions.
+- **Project Scheduling**: Created and adhered to project schedules using tools like Gantt charts to manage deliverables.
+- **Task Management**: Ensured tasks were completed on time by dividing responsibilities and maintaining accountability.
 
+## Tools and Technologies
 
-### Prerequisites
+- **Documentation**: Word documents for project proposals and team norms.
+- **Scheduling**: Excel Gantt charts for project timelines and task tracking.
+- **Presentation**: PowerPoint slides to present deliverables and outcomes.
+- **Team Coordination**: Defined team roles and established norms to ensure smooth collaboration.
 
-- A computer with an operating system that supports the required technologies (e.g., Python, ROS, etc.).
-- Basic understanding of robotics and drone operation.
+## Deliverables
 
-### Usage
-Running the Simulation: Instructions for running the drone simulation or controlling the actual drone will be provided here.
+- **Autonomous Robots**: Fully designed and documented systems for automating household tasks.
+- **Project Proposals**: Detailed plans outlining objectives, milestones, and methodologies.
+- **Presentations**: Final presentations summarizing project achievements and lessons learned.
 
-Using the Interface: Details on how to use the control interface for setting up and operating the drones.
+## Learning Outcomes
 
-### Documentation
-For detailed documentation, refer to the following files:
+This project provided valuable experience in:
+- Developing robotic systems for practical applications.
+- Collaborating effectively within a team to achieve shared goals.
+- Managing time and resources through meticulous planning and scheduling.
 
-Project Definition Document: Contains the project definition, goals, and technical details.
+## Repository Contents
 
-### Technologies Used
-Hardware: Drone components including sensors, controllers, and power management systems.
-Software: ROS (Robot Operating System), Python, and other relevant software tools for drone control and operation.
-Algorithms: Pathfinding, obstacle detection, and terrain mapping algorithms.
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
+- **Assignments.xlsx**: Contains team member assignments and task tracking.
+- **Project Proposal Document.docx**: Detailed project proposal with objectives and plans.
+- **Project Schedule - Gantt Chart.xlsx**: Timeline and task management.
+- **Team Norms.docx**: Defined roles, responsibilities, and collaboration guidelines.
+- **Team Final - Deliverable 3.pptx**: Presentation summarizing the project.
+- **Self-Service Landscape Drones Documentation**: Supporting documents for the project design and implementation.
 
-### Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with a descriptive message.
-Push your changes to the branch and create a pull request.
+## Conclusion
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-### Contact
-For any inquiries or questions, please contact:
-
-- Name: Yengkong Sayaovong
-- Email: YSayaovong@gmail.com
-- LinkedIn: Yengkong Sayaovong
+The Self-Service Landscape Drones project highlights the application of robotics to simplify everyday tasks while demonstrating the importance of teamwork, planning, and effective time management. This repository serves as a resource for understanding the process of designing and managing collaborative engineering projects.
